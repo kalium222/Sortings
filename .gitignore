@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+*.zip
+
+# Executables
+main
+p1
+testoverride
